@@ -10,6 +10,8 @@ const connection = mysql.createConnection({
     database: 'meubanco'
 })
 
+
+
 // parou no minuto 25:32 
 // https://www.youtube.com/watch?v=5JnPd_YckQw&list=PLmY5AEiqDWwBHJ3i_8MDSszXXRTcFdkSu&index=7
 
